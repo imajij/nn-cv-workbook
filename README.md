@@ -1,4 +1,4 @@
-# Deep Learning & Neural Networks — Practice Workbook
+# Deep Learning & Neural Networks — Practice Workbookg
 
 An interactive study workbook for the **Scaler School of Technology "Deep Learning I: Neural Networks"**
 course, rebuilt for readability and real understanding. Content is grounded in the instructor's actual
